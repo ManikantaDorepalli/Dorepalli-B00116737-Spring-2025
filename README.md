@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> ff335af (Updated README.md)
 Work Summary
 
 Week of 02/05/2025
@@ -11,3 +14,7 @@ Week of 02/12/2025
 - Optimized model hyperparameters for better accuracy.
 - Added visualization techniques to understand stock trends.
 - Finalized and committed an updated version of the Jupyter Notebook.
+<<<<<<< HEAD
+=======
+
+>>>>>>> ff335af (Updated README.md)
