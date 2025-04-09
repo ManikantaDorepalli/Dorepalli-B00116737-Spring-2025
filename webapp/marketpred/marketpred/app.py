@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from main import search
+from main import search, stockpredict
 
 app = Flask(__name__)
 app.debug = True
