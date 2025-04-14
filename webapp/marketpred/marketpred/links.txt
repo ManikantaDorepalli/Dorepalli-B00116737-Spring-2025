@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_stocks.csv
